@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: darkgray;
+    background: white;
     overflow: hidden;
     display: flex;
     justify-content: center;
@@ -17,5 +17,5 @@ body {
 }
 
 #network {
-    background: black;
+    background: lightgray;
 }

@@ -9,7 +9,7 @@ networkCtx = networkCanvas.getContext('2d');
 
 const road = new Road(roadCanvas.width / 2, roadCanvas.width * 0.9);
 
-const N = 100;
+const N = 1000;
 const cars = genarateCars(N);
 let bestCar = cars[0];
 
