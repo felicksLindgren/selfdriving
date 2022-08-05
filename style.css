@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background: darkgray;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#verticalButtons {
+    display: flex;
+    flex-direction: column;
+}
+
+#road {
+    background: lightgray;
+}
+
+#network {
+    background: black;
+}
